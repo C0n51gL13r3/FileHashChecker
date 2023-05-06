@@ -1,1 +1,1 @@
-Bir dosyanin MD5,SHA-1 ve SHA-256 turunden karma degerlerini verir ve elinizdeki degere gore karsilastirma yapar.
+Bir dosyanın MD5,SHA-1 ve SHA-256 türünden karma değerlerini verir ve elinizdeki değere göre karşılaştırma yapar.
